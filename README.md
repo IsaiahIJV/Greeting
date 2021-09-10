@@ -5,7 +5,7 @@ Bio 🇺🇸
 - 📫 How to reach me: 
   - __Email__: isaiah.vertus@gmail.com
   - __Linkedin__: https://www.linkedin.com/in/isaiah-vertus/
-- 💬 Ask me about anything __Python__ or __Programming__
+- 💬 Ask me about anything __Python__ or __Programming__ related
 - 🌱 I’m currently learning all things related to Python 
 - 🔭 I’m currently working on perfecting my knowledge of OOP and Algorithms 
-- ⚡ Fun fact: I enjoy encoporating some of my favorite hobbies such as art and video games into my work 
+- ⚡ Fun fact: I enjoy incorporating some of my favorite hobbies such as art and video games into my work 
